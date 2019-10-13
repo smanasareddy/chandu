@@ -1,2 +1,2 @@
-ABCDEF
+ABCDEFabcdef
 123456
